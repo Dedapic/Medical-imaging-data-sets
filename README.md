@@ -171,6 +171,7 @@ ___________________________________________
 - **数据集摘要：**
   Computer-aided diagnosis systems in adult chest radiography (CXR) have recently achieved great success thanks to the availability of large-scale, annotated datasets and the advent of high-performance supervised learning algorithms. However, the development of diagnostic models for detecting and diagnosing pediatric diseases in CXR scans is undertaken due to the lack of high-quality physician-annotated datasets. To overcome this challenge, we introduce and release in this paper a new pediatric CXR dataset of 9,125 studies that were retrospectively collected from a major pediatric hospital in Vietnam between 2020-2021. Each scan was manually annotated by an experienced radiologist for the presence of 36 critical findings and 15 diseases. In particular, each abnormal finding was identified via a rectangle bounding box on the image. To the best of our knowledge, this is the first and largest pediatric CXR dataset containing lesion-level labels and image-level labels for multiple findings and diseases. For algorithm development, the dataset is divided into a training set of 7,728 and a test set of 1,397.
 - **数据集下载地址：**
+  https://physionet.org/content/vindr-pcxr/1.0.0/
 
 ### （8）RAD-ChestCT Dataset
 - **数据集官方简介：**
